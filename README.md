@@ -1,8 +1,6 @@
-### Halo I'm Mahdi! 👋
+A Product Manager who loves sitting at the intersection of tech and product where ideas turn into things people actually use.
+Previously a Front-End Engineer, so I speak both designer and engineer language which makes the job a lot more fun.
+I talk tech and product, write about anything on [Medium](https://medium.com/@Mahdi_Haris), and occasionally share my thoughts on [Instagram](https://instagram.com/mahdihrs).
+Currently exploring Product Strategy, User Research, and what it truly means to build products that matter. Diving deep into user psychology, data-driven decisions, and the craft of turning ambiguity into clarity.
 
-- 🔭 I’m currently working as a Front End Developer using ⚛
-- 🌱 I’m currently learning Swift, User Experience Design, and How can I be my own source of happiness
-- 💬 I write about anything on [My Website](https://mahdiharis.com) and [Medium](https://medium.com/@Mahdi_Haris)
-- 📫 You can reach me via [Instagram](https://instagram.com/mahdihrs)
-
-Thank you for visiting my github profile! 
+Thanks for stopping by! Feel free to say hi or drop me an email at hello@mahdiharis.com! 👋
